@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Trilha-Net-Desafio-Api.props" />
+</Project>
